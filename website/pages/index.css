@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "myFont";
+    src: url("/website/");
+}
+
+.pretty {
+    font-family: "myFont";
+    color: blue;
+} 
+body
+{
+    background-color: black;
+}
